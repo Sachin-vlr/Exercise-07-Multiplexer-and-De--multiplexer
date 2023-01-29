@@ -107,20 +107,20 @@ endmodule
 ![tt4](https://user-images.githubusercontent.com/113497666/215322899-8cf97112-8bd8-431f-b1fc-6fe0e5f20bf2.png)
 
 4x1 DEMULTIPLEXER
-![41rtl](https://user-images.githubusercontent.com/113497666/215322820-7eae04ff-ee22-49b6-b99d-1f470f225de5.png)
+![41](https://user-images.githubusercontent.com/113497666/215323016-7d81c5c5-92db-410e-abaa-b4c8655a68cb.png)
 
 
 ### TRUTH TABLE 
 
 1x4
-![tt1](https://user-images.githubusercontent.com/113497666/215322878-4a21ecea-45c5-4167-a46a-60ea79584de2.png)
-![tt2](https://user-images.githubusercontent.com/113497666/215322888-61c5db7c-adcf-4a8a-9254-fc66be2f49e1.png)
-![tt3](https://user-images.githubusercontent.com/113497666/215322893-542e49f8-5b8e-458f-9632-214b374f0fc8.png)
-![tt4](https://user-images.githubusercontent.com/113497666/215322899-8cf97112-8bd8-431f-b1fc-6fe0e5f20bf2.png)
+
+![14](https://user-images.githubusercontent.com/113497666/215323030-032fd9dc-002a-41df-967c-d3b02176e2c0.png)
+
 
 4x1
 
-![41](https://user-images.githubusercontent.com/113497666/215322936-97879b6f-348e-4a62-a418-1e1056f091f4.png)
+![411](https://user-images.githubusercontent.com/113497666/215323052-4a8cc3dd-2d1f-4151-8d2f-9df7e546fc4b.png)
+
 
 ### RESULTS 
 Hence, 4x1 Multiplexer and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated.
