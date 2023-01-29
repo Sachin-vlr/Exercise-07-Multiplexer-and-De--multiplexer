@@ -47,7 +47,7 @@ If the control input changes to AB = 10, then all the gates are restricted excep
  
  
 ### Procedure
-/* write all the steps invloved */
+1.Start the module using module projname(). 2.Declare the inputs and outputs along with the select lines according to the multiplexer and demultiplexer. 3. Use wire to assign intermediate outputs. 4.Use and, or and not gates to get the desired output. 5.End the module. 6.Generate RTL realization and timing diagrams
 
 
 
@@ -90,24 +90,33 @@ endmodule
 
 ### RTL LOGIC  
 
+1x4 MULTIPLEXER
+
+![14RTL](https://user-images.githubusercontent.com/113497666/215308574-56dbc681-08b6-4f33-8317-ee15fc40ed43.png)
 
 
-
-
-
+4x1 DEMULTIPLEXER
 
 
 ### TIMING DIGRAMS  
 
+1x4 TIMING DIAGRAM
+![Uploading 14TIME2.png…]()
+![Uploading 14TIME3.png…]()
+![Uploading 14TIME4.png…]()
 
-
+4x1 DEMULTIPLEXER
 
 
 ### TRUTH TABLE 
 
+1x4
 
 
+4x1
 
+![Uploading 41TT.png…]()
 
 
 ### RESULTS 
+Hence, 4x1 Multiplexer and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated.
