@@ -96,6 +96,7 @@ endmodule
 
 
 4x1 DEMULTIPLEXER
+![de](https://user-images.githubusercontent.com/113497666/215323095-ac7bf50e-29fd-4a92-b499-000629a1eb44.png)
 
 
 ### TIMING DIGRAMS  
